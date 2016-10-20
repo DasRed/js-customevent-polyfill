@@ -1,0 +1,15 @@
+{
+    "name": "customevent-polyfill",
+    "homepage": "https://github.com/DasRed/js-customevent-polyfill",
+    "main": "Polyfill for CustomEvent if needed.",
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+    }
+}
