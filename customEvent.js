@@ -12,7 +12,7 @@
     } else {
         root.CustomEvent = factory(root.CustomEvent, root.Event);
     }
-}(this, function (CustomEventOriginal, Event) {
+})(this, function (CustomEventOriginal, Event) {
     /**
      *
      * @param {String} typeArg
