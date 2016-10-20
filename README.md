@@ -1,5 +1,5 @@
-# customerevent-polyfill
+# polyfill-customEvent
 ## Install
 ```
-bower install customevent-polyfill --save
+bower install polyfill-customevent --save
 ```
