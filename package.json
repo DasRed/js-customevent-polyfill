@@ -1,0 +1,16 @@
+{
+  "name": "polyfill-customevent",
+  "version": "1.0.2",
+  "description": "Polyfill for CustomEvent if needed.",
+  "main": "customEvent.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DasRed/js-customevent-polyfill.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DasRed/js-customevent-polyfill/issues"
+  },
+  "homepage": "https://github.com/DasRed/js-customevent-polyfill#readme"
+}
